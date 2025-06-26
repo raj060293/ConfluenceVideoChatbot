@@ -1,0 +1,21 @@
+# .gitignore
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.cache/
+
+# Virtual environments
+.venv/
+.venv1/
+env/
+venv/
+
+# Mac/IDE files
+.DS_Store
+.idea/
